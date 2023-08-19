@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AaPREyHBdYR7CJ4aXEMBefAwgWuBp/CJUlfPx0eU59eBzR8KM+y4C759wZFtpI6psGXuJ2iylkLseeA7uHuBuQ==",
+  "dgSpecHash": "SJlCRahExIz2t7QAXYQ8lumEFr+R9TOLrQ7As1pNsm30HqLemTStYyNJm8ntLBooUuXuwliPkP7V5eMAz102Dg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Гигачад\\Desktop\\ASPGuide\\BulkWeb\\BulkWeb\\BulkWeb.csproj",
+  "projectFilePath": "C:\\Users\\Гигачад\\Desktop\\aspGuide\\BulkWeb\\BulkWeb\\BulkWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Гигачад\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Гигачад\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Гигачад\\Desktop\\ASPGuide\\BulkWeb\\BulkWeb\\BulkWeb.csproj": {}
+    "C:\\Users\\Гигачад\\Desktop\\aspGuide\\BulkWeb\\BulkWeb\\BulkWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Гигачад\\Desktop\\ASPGuide\\BulkWeb\\BulkWeb\\BulkWeb.csproj": {
+    "C:\\Users\\Гигачад\\Desktop\\aspGuide\\BulkWeb\\BulkWeb\\BulkWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Гигачад\\Desktop\\ASPGuide\\BulkWeb\\BulkWeb\\BulkWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Гигачад\\Desktop\\aspGuide\\BulkWeb\\BulkWeb\\BulkWeb.csproj",
         "projectName": "BulkWeb",
-        "projectPath": "C:\\Users\\Гигачад\\Desktop\\ASPGuide\\BulkWeb\\BulkWeb\\BulkWeb.csproj",
+        "projectPath": "C:\\Users\\Гигачад\\Desktop\\aspGuide\\BulkWeb\\BulkWeb\\BulkWeb.csproj",
         "packagesPath": "C:\\Users\\Гигачад\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Гигачад\\Desktop\\ASPGuide\\BulkWeb\\BulkWeb\\obj\\",
+        "outputPath": "C:\\Users\\Гигачад\\Desktop\\aspGuide\\BulkWeb\\BulkWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Гигачад\\AppData\\Roaming\\NuGet\\NuGet.Config",
